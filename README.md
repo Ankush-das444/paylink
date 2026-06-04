@@ -47,7 +47,7 @@ Whether you're a street vendor, a freelancer, or just splitting a bill — PayLi
 |---|---|
 | 🤖 **GitHub Releases** | [![Download](https://img.shields.io/github/v/release/Ankush-das444/paylink?label=Download&style=flat-square&color=4F46E5)](https://github.com/Ankush-das444/paylink/releases/latest) |
 | 📦 **F-Droid** | *Submission in progress* |
-| 🌐 **Orion Store** | *Coming soon* |
+| 🌐 **Orion Store** | ![Available](https://img.shields.io/badge/Orion_Store-Available-4F46E5?style=flat-square&logo=android&logoColor=white) |
 
 </div>
 
